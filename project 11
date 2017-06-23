@@ -1,0 +1,63 @@
+                               Project11
+
+
+1- Basics concepts
+
+a- What is a DevOps?
+Its an enterprise software development phrase used to mean a type of agile relationship between development and IT operations. 
+
+b- What is GIT?
+Is a free and open source distributed version control system designed to handle everything from small to very large projects with efficiency.
+
+c- what is the difference between git and svn?
+
+GIT 	SVN 
+GIT is a distributed revision control system	SVN is a centralized revision control system  
+By default, Git assumes that all contributors have the same permissions, 	SVN allows you to specify read and write access controls per file and directory level.
+	
+	
+
+
+d- what continuous integration?
+Is a development practice that requires developers to integrate code into shared repository several times a day. 
+
+
+e- what is continuous delivery?
+Is the ability to get changes of all types including new features, configuration, changes, bug fixes and experiments -into production or into the hands of users safely and quickly in a sustainable way.
+
+f- what is scrum?
+Is an agile framework for completing complex projects. 
+
+g- What is agile methodology?
+Is an approach to project management that is utilized in software  development 
+
+h- what release calendar?
+i- what is release date?
+
+2- give 4 raisons why companies should consider the DevOps method
+Speed 
+Security 
+Improved collaboration 
+Reliability 
+
+3- what are some automation tools used in the DevOps environment?
+Ansible
+GitHub
+Nagios 
+Monit 
+Elk 
+Docker 
+Jenkins
+
+4- why is it important to build the software in the test regions before delivering it to production?
+Spend less time debugging and more time adding features 
+Build a solid foundation
+ 
+
+
+5- create a project in your github repository called project4 and in project 4 , create a file called project11
+
+6- copy your homework11 answers into the file project11 and commit it.
+
+7- What is the url to access your github project11 file?
+ 
